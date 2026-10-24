@@ -1,2 +1,2 @@
 numpy>=1.26,<3
-# PyTorch will be added when we begin Chapter 04.
+
